@@ -1,0 +1,13 @@
+html,body{
+    margin: 0;
+    padding: 0;
+}
+li,ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+@import "mixin.scss";
+@import "menu.scss";
+@import "rs-font.scss";
